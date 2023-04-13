@@ -1,0 +1,1 @@
+from .starsolo import MultiqcModule

@@ -619,6 +619,9 @@ module_order:
   - star:
       module_tag:
         - RNA
+  - starsolo:
+      module_tag:
+        - RNA
   - hisat2:
       module_tag:
         - RNA

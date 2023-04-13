@@ -189,6 +189,7 @@ setup(
             "sortmerna = multiqc.modules.sortmerna:MultiqcModule",
             "stacks = multiqc.modules.stacks:MultiqcModule",
             "star = multiqc.modules.star:MultiqcModule",
+            "starsolo = multiqc.modules.starsolo:MultiqcModule",
             "supernova = multiqc.modules.supernova:MultiqcModule",
             "theta2 = multiqc.modules.theta2:MultiqcModule",
             "tophat = multiqc.modules.tophat:MultiqcModule",
